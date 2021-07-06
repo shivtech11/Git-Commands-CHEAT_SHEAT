@@ -1,11 +1,6 @@
 # Git-Commands-CHEAT_SHEAT
-Basic or necessary using git commands..
-
-Git Commands
-============
 _A list of my commonly used Git commands_
-
---
+---
 
 ### Getting & Creating Projects
 
